@@ -1,494 +1,494 @@
 {
   "PlateCategory": [
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "AJM"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "AJM"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "AJM"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Probation",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "AJM"
+        "en": "Probation",
+        "ar": "تحت التجربة",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "AJM"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "AJM"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "AJM"
     },
     {
-        "Description": "Public 2",
-        "DescriptionA": "عمومي2",
-        "EmiCode": "AUH"
+        "en": "Public 2",
+        "ar": "عمومي2",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Protocol",
-        "DescriptionA": "التشريفات",
-        "EmiCode": "AUH"
+        "en": "Protocol",
+        "ar": "التشريفات",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Public(Driving Learning)",
-        "DescriptionA": "عمومي (تعليم قيادة)",
-        "EmiCode": "AUH"
+        "en": "Public(Driving Learning)",
+        "ar": "عمومي (تعليم قيادة)",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Probation",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "AUH"
+        "en": "Probation",
+        "ar": "تحت التجربة",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Police",
-        "DescriptionA": "شرطة",
-        "EmiCode": "AUH"
+        "en": "Police",
+        "ar": "شرطة",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Customs",
-        "DescriptionA": "الجمارك",
-        "EmiCode": "AUH"
+        "en": "Customs",
+        "ar": "الجمارك",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "AUH"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Classical",
-        "DescriptionA": "كلاسيكية",
-        "EmiCode": "AUH"
+        "en": "Classical",
+        "ar": "كلاسيكية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Government",
-        "DescriptionA": "حكومة",
-        "EmiCode": "AUH"
+        "en": "Government",
+        "ar": "حكومة",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Delegate",
-        "DescriptionA": "الضيافة",
-        "EmiCode": "AUH"
+        "en": "Delegate",
+        "ar": "الضيافة",
+        "Emirate": "AUH"
     },
     {
-        "Description": "International Organization",
-        "DescriptionA": "منظمة دولية",
-        "EmiCode": "AUH"
+        "en": "International Organization",
+        "ar": "منظمة دولية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Diplomatic association",
-        "DescriptionA": "هيئة دبلوماسية",
-        "EmiCode": "AUH"
+        "en": "Diplomatic association",
+        "ar": "هيئة دبلوماسية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Consulate Authority",
-        "DescriptionA": "هيئة قنصلية",
-        "EmiCode": "AUH"
+        "en": "Consulate Authority",
+        "ar": "هيئة قنصلية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "AUH"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Trade Plate",
-        "DescriptionA": "تجارية",
-        "EmiCode": "AUH"
+        "en": "Trade Plate",
+        "ar": "تجارية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "AUH"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Taxi (Yallow)",
-        "DescriptionA": "اجرة (اصفر)",
-        "EmiCode": "AUH"
+        "en": "Taxi (Yallow)",
+        "ar": "اجرة (اصفر)",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "AUH"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "AUH"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "AUH"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "AUH"
     },
     {
-        "Description": "EXPO 2",
-        "DescriptionA": "EXPO 2",
-        "EmiCode": "DXB"
+        "en": "EXPO 2",
+        "ar": "EXPO 2",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "DXB"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 4",
-        "DescriptionA": "EXPO 4",
-        "EmiCode": "DXB"
+        "en": "EXPO 4",
+        "ar": "EXPO 4",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 5",
-        "DescriptionA": "EXPO 5",
-        "EmiCode": "DXB"
+        "en": "EXPO 5",
+        "ar": "EXPO 5",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 6",
-        "DescriptionA": "EXPO 6",
-        "EmiCode": "DXB"
+        "en": "EXPO 6",
+        "ar": "EXPO 6",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 7",
-        "DescriptionA": "EXPO 7",
-        "EmiCode": "DXB"
+        "en": "EXPO 7",
+        "ar": "EXPO 7",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 3",
-        "DescriptionA": "EXPO 3",
-        "EmiCode": "DXB"
+        "en": "EXPO 3",
+        "ar": "EXPO 3",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Taxi",
-        "DescriptionA": "اجرة",
-        "EmiCode": "DXB"
+        "en": "Taxi",
+        "ar": "اجرة",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Public Transportation",
-        "DescriptionA": "نقل عام",
-        "EmiCode": "DXB"
+        "en": "Public Transportation",
+        "ar": "نقل عام",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Trade Plate",
-        "DescriptionA": "تجارية",
-        "EmiCode": "DXB"
+        "en": "Trade Plate",
+        "ar": "تجارية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "DXB"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Consulate Authority",
-        "DescriptionA": "هيئة قنصلية",
-        "EmiCode": "DXB"
+        "en": "Consulate Authority",
+        "ar": "هيئة قنصلية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Political Authority",
-        "DescriptionA": "هيئة سياسية",
-        "EmiCode": "DXB"
+        "en": "Political Authority",
+        "ar": "هيئة سياسية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "International Organization",
-        "DescriptionA": "منظمة دولية",
-        "EmiCode": "DXB"
+        "en": "International Organization",
+        "ar": "منظمة دولية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Under Test",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "DXB"
+        "en": "Under Test",
+        "ar": "تحت التجربة",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Classical",
-        "DescriptionA": "كلاسيك",
-        "EmiCode": "DXB"
+        "en": "Classical",
+        "ar": "كلاسيك",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "DXB"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Import",
-        "DescriptionA": "استيراد",
-        "EmiCode": "DXB"
+        "en": "Import",
+        "ar": "استيراد",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Learning Vehicle",
-        "DescriptionA": "تعليم",
-        "EmiCode": "DXB"
+        "en": "Learning Vehicle",
+        "ar": "تعليم",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Dubai Police",
-        "DescriptionA": "شرطة دبي",
-        "EmiCode": "DXB"
+        "en": "Dubai Police",
+        "ar": "شرطة دبي",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Entertainment Motorcycle",
-        "DescriptionA": "دراجة نارية ترفيهية",
-        "EmiCode": "DXB"
+        "en": "Entertainment Motorcycle",
+        "ar": "دراجة نارية ترفيهية",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "DXB"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "DXB"
     },
     {
-        "Description": "EXPO 1",
-        "DescriptionA": "EXPO 1",
-        "EmiCode": "DXB"
+        "en": "EXPO 1",
+        "ar": "EXPO 1",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Dubai Flag",
-        "DescriptionA": "علم دبي",
-        "EmiCode": "DXB"
+        "en": "Dubai Flag",
+        "ar": "علم دبي",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Data Migration",
-        "DescriptionA": "نقل البيانات",
-        "EmiCode": "DXB"
+        "en": "Data Migration",
+        "ar": "نقل البيانات",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Private Transportation",
-        "DescriptionA": "نقل خاص",
-        "EmiCode": "DXB"
+        "en": "Private Transportation",
+        "ar": "نقل خاص",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Government Vehicle",
-        "DescriptionA": "حكومة",
-        "EmiCode": "DXB"
+        "en": "Government Vehicle",
+        "ar": "حكومة",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Protocol",
-        "DescriptionA": "تشريفات",
-        "EmiCode": "DXB"
+        "en": "Protocol",
+        "ar": "تشريفات",
+        "Emirate": "DXB"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "FUJ"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Probation",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "FUJ"
+        "en": "Probation",
+        "ar": "تحت التجربة",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "FUJ"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "FUJ"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "FUJ"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Z",
-        "DescriptionA": "Z",
-        "EmiCode": "FUJ"
+        "en": "Z",
+        "ar": "Z",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Government",
-        "DescriptionA": "حكومة",
-        "EmiCode": "FUJ"
+        "en": "Government",
+        "ar": "حكومة",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "FUJ"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "FUJ"
     },
     {
-        "Description": "Police",
-        "DescriptionA": "شرطة",
-        "EmiCode": "RAK"
+        "en": "Police",
+        "ar": "شرطة",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Government",
-        "DescriptionA": "حكومة",
-        "EmiCode": "RAK"
+        "en": "Government",
+        "ar": "حكومة",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Local Guard",
-        "DescriptionA": "حرس محلي",
-        "EmiCode": "RAK"
+        "en": "Local Guard",
+        "ar": "حرس محلي",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Hospitality",
-        "DescriptionA": "ضيافة",
-        "EmiCode": "RAK"
+        "en": "Hospitality",
+        "ar": "ضيافة",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Municipality",
-        "DescriptionA": "بلدية",
-        "EmiCode": "RAK"
+        "en": "Municipality",
+        "ar": "بلدية",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Works",
-        "DescriptionA": "الأشغال",
-        "EmiCode": "RAK"
+        "en": "Works",
+        "ar": "الأشغال",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Ceremonies",
-        "DescriptionA": "التشريفات",
-        "EmiCode": "RAK"
+        "en": "Ceremonies",
+        "ar": "التشريفات",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "RAK"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "RAK"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Taxi (White)",
-        "DescriptionA": "اجرة (ابيض)",
-        "EmiCode": "RAK"
+        "en": "Taxi (White)",
+        "ar": "اجرة (ابيض)",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "RAK"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Probation",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "RAK"
+        "en": "Probation",
+        "ar": "تحت التجربة",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "RAK"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "RAK"
     },
     {
-        "Description": "commercial",
-        "DescriptionA": "تجارية",
-        "EmiCode": "RAK"
+        "en": "commercial",
+        "ar": "تجارية",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "RAK"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Z",
-        "DescriptionA": "Z",
-        "EmiCode": "RAK"
+        "en": "Z",
+        "ar": "Z",
+        "Emirate": "RAK"
     },
     {
-        "Description": "X",
-        "DescriptionA": "X",
-        "EmiCode": "RAK"
+        "en": "X",
+        "ar": "X",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Classical",
-        "DescriptionA": "كلاسيكية",
-        "EmiCode": "RAK"
+        "en": "Classical",
+        "ar": "كلاسيكية",
+        "Emirate": "RAK"
     },
     {
-        "Description": "Police",
-        "DescriptionA": "شرطة",
-        "EmiCode": "SHJ"
+        "en": "Police",
+        "ar": "شرطة",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Classic",
-        "DescriptionA": "كلاسيكية",
-        "EmiCode": "SHJ"
+        "en": "Classic",
+        "ar": "كلاسيكية",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "4",
-        "DescriptionA": "الفئة الرابعة",
-        "EmiCode": "SHJ"
+        "en": "4",
+        "ar": "الفئة الرابعة",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "SHJ"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "SHJ"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Trade Plate",
-        "DescriptionA": "تجارية",
-        "EmiCode": "SHJ"
+        "en": "Trade Plate",
+        "ar": "تجارية",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "SHJ"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "SHJ"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "SHJ"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "SHJ"
     },
     {
-        "Description": "Private",
-        "DescriptionA": "خصوصي",
-        "EmiCode": "UMQ"
+        "en": "Private",
+        "ar": "خصوصي",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Public(TrnsportTaxi)",
-        "DescriptionA": "عمومي(نقل عام/اجرة)",
-        "EmiCode": "UMQ"
+        "en": "Public(TrnsportTaxi)",
+        "ar": "عمومي(نقل عام/اجرة)",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Motorcycle",
-        "DescriptionA": "دراجة نارية",
-        "EmiCode": "UMQ"
+        "en": "Motorcycle",
+        "ar": "دراجة نارية",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "B",
-        "DescriptionA": "B",
-        "EmiCode": "UMQ"
+        "en": "B",
+        "ar": "B",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Trailer",
-        "DescriptionA": "مقطورة",
-        "EmiCode": "UMQ"
+        "en": "Trailer",
+        "ar": "مقطورة",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Driving Learning",
-        "DescriptionA": "تعليم القيادة",
-        "EmiCode": "UMQ"
+        "en": "Driving Learning",
+        "ar": "تعليم القيادة",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Export",
-        "DescriptionA": "تصدير",
-        "EmiCode": "UMQ"
+        "en": "Export",
+        "ar": "تصدير",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Probation",
-        "DescriptionA": "تحت التجربة",
-        "EmiCode": "UMQ"
+        "en": "Probation",
+        "ar": "تحت التجربة",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "Government",
-        "DescriptionA": "حكومة",
-        "EmiCode": "UMQ"
+        "en": "Government",
+        "ar": "حكومة",
+        "Emirate": "UMQ"
     },
     {
-        "Description": "A",
-        "DescriptionA": "A",
-        "EmiCode": "UMQ"
+        "en": "A",
+        "ar": "A",
+        "Emirate": "UMQ"
     }
   ]
 }
