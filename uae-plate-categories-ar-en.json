@@ -1,5 +1,5 @@
 {
-  "PlateCategory": [
+  "uae-plate-categories-ar-en": [
     {
         "en": "Motorcycle",
         "ar": "دراجة نارية",
@@ -491,4 +491,5 @@
         "Emirate": "UMQ"
     }
   ]
+
 }
